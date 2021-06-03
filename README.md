@@ -1,6 +1,6 @@
 # ITCP-Lab Assignment
 1. [Lab_01 : Linux Commands](https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_01.md)
-2. [Lab_02 : Practical Based on Arithmetic and Conditional Operators] (https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_02.c)
+2. [Lab_02 : Practical Based on Arithmetic and Conditional Operators](https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_02.c)
 3. [Lab_03 : Practical Based on Conditional and Unconditional Statements](https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_03.c)
 4. [Lab_04 : Practical Based on Looping Statements](https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_04.c)
 5. [Lab_05 : Practical Based on Functions and Recursion](https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_05.c)
