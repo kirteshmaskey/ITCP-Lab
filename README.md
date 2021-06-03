@@ -1,0 +1,11 @@
+# ITCP-Lab Assignment
+- Lab_01     -->     Linux Commands
+- Lab_02     -->     Practical Based on Arithmetic and Conditional Operators
+- Lab_03     -->     Practical Based on Conditional and Unconditional Statements
+- Lab_04     -->     Practical Based on Looping Statements
+- Lab_05     -->     Practical Based on Functions and Recursion
+- Lab_06     -->     Practical Based on 1-D Array
+- Lab_07     -->     Practical Based on 2-D Array
+- Lab_08     -->     Practical Based on String and Pointers
+- Lab_09     -->     Practical Based on Structure
+- Lab_10     -->     Practical Based on Files
