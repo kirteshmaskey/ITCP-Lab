@@ -1,11 +1,11 @@
 # ITCP-Lab Assignment
-- Lab_01     -->     Linux Commands [https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_01.md]
-- Lab_02     -->     Practical Based on Arithmetic and Conditional Operators [https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_02.c]
-- Lab_03     -->     Practical Based on Conditional and Unconditional Statements[https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_03.c]
-- Lab_04     -->     Practical Based on Looping Statements [https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_04.c]
-- Lab_05     -->     Practical Based on Functions and Recursion [https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_05.c]
-- Lab_06     -->     Practical Based on 1-D Array [https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_06.c]
-- Lab_07     -->     Practical Based on 2-D Array [https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_07.c]
-- Lab_08     -->     Practical Based on String and Pointers [https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_08.c]
-- Lab_09     -->     Practical Based on Structure [https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_09.c]
-- Lab_10     -->     Practical Based on Files [https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_10.c]
+- [Lab_01     -->     Linux Commands] (https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_01.md)
+- [Lab_02     -->     Practical Based on Arithmetic and Conditional Operators] (https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_02.c)
+- [Lab_03     -->     Practical Based on Conditional and Unconditional Statements] (https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_03.c)
+- [Lab_04     -->     Practical Based on Looping Statements] (https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_04.c)
+- [Lab_05     -->     Practical Based on Functions and Recursion] (https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_05.c)
+- [Lab_06     -->     Practical Based on 1-D Array] (https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_06.c)
+- [Lab_07     -->     Practical Based on 2-D Array] (https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_07.c)
+- [Lab_08     -->     Practical Based on String and Pointers] (https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_08.c)
+- [Lab_09     -->     Practical Based on Structure] (https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_09.c)
+- [Lab_10     -->     Practical Based on Files] (https://github.com/kirteshmaskey/ITCP-Lab/blob/main/Lab_10.c)
