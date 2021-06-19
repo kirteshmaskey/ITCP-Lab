@@ -1,5 +1,5 @@
 # ITCP-Lab Assignment
-#### Language Used: C <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/84732597/122640055-f41f9f00-d11a-11eb-87f4-3c3ebbbc4ab6.png">
+#### Language Used: C <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/84732597/122640055-f41f9f00-d11a-11eb-87f4-3c3ebbbc4ab6.png">
 
 #### Code by: Kirtesh Maskey
 <p align="center">
