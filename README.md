@@ -1,4 +1,8 @@
 # ITCP-Lab Assignment
+
+### This repository contains the use of basic operators, looping statements, functions and recursion, array, string, structure and file handling
+<hr>
+
 #### Language Used: C <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/84732597/122640055-f41f9f00-d11a-11eb-87f4-3c3ebbbc4ab6.png">
 
 #### Code by: Kirtesh Maskey
